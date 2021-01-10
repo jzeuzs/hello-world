@@ -1,2 +1,1 @@
-# hello-world
-Hello, World! In some programming languages.
+the website for this repository
