@@ -1,0 +1,37 @@
+#main {
+        padding-left: 2.5em;
+        padding-right: 2.5em;
+}
+
+.lang-logo {
+        width: 256px;
+        height: 256px;
+}
+
+.javascript-text {
+        color: rgb(240, 219, 79);
+}
+
+.python-text {
+        color: #306998;
+}
+
+.java-text {
+        color: rgb(248, 152, 32);
+}
+
+.php-text {
+        color: rgb(137, 147, 190);
+}
+
+.ruby-text {
+        color: #d51f06;
+}
+
+.typescript-text {
+        color: rgb(0, 122, 204);
+}
+
+.shell-text {
+        color: rgb(171, 171, 171);
+}
