@@ -67,7 +67,7 @@ body {
 }
 
 .subtitle {
-	font-style: italic;
+        font-style: italic;
 }
 
 @-webkit-keyframes colorchange {
