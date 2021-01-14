@@ -35,3 +35,31 @@
 .shell-text {
         color: rgb(171, 171, 171);
 }
+
+.css-text {
+        color: rgb(21, 114, 182);
+}
+
+.julia-text {
+        color: rgb(148, 92, 180);
+}
+
+.html-text {
+        color: rgb(230, 83, 38);
+}
+
+.brainfuck-text {
+        color: rgb(252, 69, 132);
+}
+
+.dart-text {
+        color: rgb(93, 183, 245);
+}
+
+.powershell-text {
+        color: rgb(4, 172, 244);
+}
+
+.batch-text {
+        color: rgb(252, 135, 97);
+}

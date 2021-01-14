@@ -1,4 +1,4 @@
 cd assets/img
-wget https://cdn.statically.io/img/raw.githubusercontent.com/f=auto,w=512,h=512/computingfoundation/gnu-linux-shell-scripting/images/logo.png
+wget https://github.com/PKief/vscode-material-icon-theme/raw/master/icons/console.svg
 cd ..
 cd ..

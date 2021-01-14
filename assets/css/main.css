@@ -6,7 +6,7 @@
 
 section {
         background: #242526;
-        max-width: 600px;
+        max-width: 1200px;
         margin: 0 auto;
         padding: 20px;
         overflow: hidden;
@@ -14,9 +14,7 @@ section {
 
 .box {
         width: 48%;
-        min-height: 200px;
         background: rgb(41, 48, 48);
-        position: relative;
         float: left;
         padding: 20px;
         margin-right: 4%;
