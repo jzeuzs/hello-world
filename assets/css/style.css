@@ -63,3 +63,43 @@
 .batch-text {
         color: rgb(252, 135, 97);
 }
+
+.c-text {
+        color: rgb(2, 119, 189);
+}
+
+.cpp-text {
+        color: rgb(2, 119, 189);
+}
+
+.csharp-text {
+        color: rgb(2, 119, 189);
+}
+
+.clojure-text {
+        color: rgb(124, 179, 66);
+}
+
+.cobol-text {
+        color: rgb(2, 136, 209);
+}
+
+.kotlin-text {
+        color: rgb(232, 127, 59);
+}
+
+.lolcode-text {
+        color: rgb(239, 83, 80);
+}
+
+.objective-c-text {
+        color: rgb(242, 88, 42);
+}
+
+.rust-text {
+        color: rgb(255, 112, 67);
+}
+
+.scala-text {
+        color: rgb(244, 67, 54);
+}
