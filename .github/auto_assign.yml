@@ -1,0 +1,8 @@
+addReviewers: true
+
+addAssignees: true
+
+reviewers:
+  - 1chiSensei
+
+numberOfReviewers: 0
